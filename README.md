@@ -8,6 +8,7 @@ Installation
 2. Close SublimeText2
 3. Move the `User` directory to somewhere else to have a backup.
 4. Go to the `Package` directory on commandline and do
+
 ```sh
 $ git clone git@github.com:kiesel/sublime-customizations.git User
 Cloning into 'User'...
