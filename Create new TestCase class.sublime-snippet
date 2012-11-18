@@ -1,0 +1,21 @@
+<snippet>
+  <content><![CDATA[<?php
+/*
+ * This class is part of the XP Framework
+ *
+ */
+
+  uses(
+    'unittest.TestCase'
+  );
+
+  class ${1:ClassName} extends ${2:TestCase} {
+    ${3}
+  }
+?>
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>testcase</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <!-- <scope>source.php</scope> -->
+</snippet>
