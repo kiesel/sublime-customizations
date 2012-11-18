@@ -6,5 +6,9 @@
 	"translate_tabs_to_spaces": true,
   "font_size": 10,
   "hot_exit": false,
-  "remember_open_files": false
+  "remember_open_files": false,
+  "bold_folder_labels": true,
+  "caret_style": "phase",
+  "highlight_line": true,
+  "scroll_past_end": true
 }
