@@ -1,14 +1,17 @@
 {
+	"bold_folder_labels": true,
+	"caret_style": "phase",
 	"color_scheme": "Packages/Color Scheme - Default/Monokai Bright.tmTheme",
 	"default_line_ending": "unix",
+	"font_size": 10,
+	"highlight_line": true,
+	"hot_exit": false,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
 	"remember_open_files": false,
+	"scroll_past_end": true,
 	"tab_size": 2,
-	"translate_tabs_to_spaces": true,
-  "font_size": 10,
-  "hot_exit": false,
-  "remember_open_files": false,
-  "bold_folder_labels": true,
-  "caret_style": "phase",
-  "highlight_line": true,
-  "scroll_past_end": true
+	"translate_tabs_to_spaces": true
 }
