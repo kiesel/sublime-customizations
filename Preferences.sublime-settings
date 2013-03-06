@@ -13,5 +13,6 @@
 	"remember_open_files": false,
 	"scroll_past_end": true,
 	"tab_size": 2,
-	"translate_tabs_to_spaces": true
+	"translate_tabs_to_spaces": true,
+	"folder_exclude_patterns": [".svn", ".git", ".hg", "CVS", "target", "nbproject"]
 }
