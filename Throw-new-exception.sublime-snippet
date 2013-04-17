@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+throw new ${1:IllegalArgumentException}(${2});
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>tne</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.php</scope>
+</snippet>

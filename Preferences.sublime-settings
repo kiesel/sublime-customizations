@@ -3,16 +3,28 @@
 	"caret_style": "phase",
 	"color_scheme": "Packages/Color Scheme - Default/Monokai Bright.tmTheme",
 	"default_line_ending": "unix",
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		"target",
+		"nbproject"
+	],
 	"font_size": 10,
 	"highlight_line": true,
 	"hot_exit": false,
 	"ignored_packages":
 	[
-		"Vintage"
+		"Vintage",
+		"Emmet"
 	],
 	"remember_open_files": false,
 	"scroll_past_end": true,
 	"tab_size": 2,
-	"translate_tabs_to_spaces": true,
-	"folder_exclude_patterns": [".svn", ".git", ".hg", "CVS", "target", "nbproject"]
+	"trailing_spaces_highlight_color": "",
+	"trailing_spaces_modified_lines_only": true,
+	"trailing_spaces_trim_on_save": true,
+	"translate_tabs_to_spaces": true
 }
