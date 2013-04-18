@@ -1,12 +1,5 @@
 <snippet>
   <content><![CDATA[
-/**
- * ${3:Description of method}
- *
- * @param   type name
- * @return  type
- * @throws  type description
- */
 public function ${1:methodName}(${2}) {
   ${4}
 }
